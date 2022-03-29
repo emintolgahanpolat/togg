@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "417356295200",
+    "firebase_url": "https://vtsam-68785-default-rtdb.firebaseio.com",
+    "project_id": "vtsam-68785",
+    "storage_bucket": "vtsam-68785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417356295200:android:c02fa7c55c0387a4836045",
+        "android_client_info": {
+          "package_name": "com.emintolgahanpolat.togg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417356295200-01r9118ae7p6317h9ujjtr5hv0jm4i16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe9f9ZIgeqqbqdxVISErGsth6YlIEENts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417356295200-01r9118ae7p6317h9ujjtr5hv0jm4i16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417356295200-amdmuid16ebo4tim27isejk253bh1lt5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emintolgahanpolat.omdb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417356295200:android:f0c9fb5f17045f76836045",
+        "android_client_info": {
+          "package_name": "com.ustabilir.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417356295200-01r9118ae7p6317h9ujjtr5hv0jm4i16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe9f9ZIgeqqbqdxVISErGsth6YlIEENts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417356295200-01r9118ae7p6317h9ujjtr5hv0jm4i16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417356295200-amdmuid16ebo4tim27isejk253bh1lt5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emintolgahanpolat.omdb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417356295200:android:6365e269f82ec25b836045",
+        "android_client_info": {
+          "package_name": "com.vtsam.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417356295200-01r9118ae7p6317h9ujjtr5hv0jm4i16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe9f9ZIgeqqbqdxVISErGsth6YlIEENts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417356295200-01r9118ae7p6317h9ujjtr5hv0jm4i16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417356295200-amdmuid16ebo4tim27isejk253bh1lt5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emintolgahanpolat.omdb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

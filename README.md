@@ -1,1 +1,30 @@
 # togg
+
+--> lib
+--> data
+--> data_source
+--> grpc_client.dart
+--> local_dart_storage.dart
+--> protos
+--> repo
+--> auth_repo.dart
+--> home_repo.dart
+--> fav_repo.dart
+--> helper
+--> firebase
+--> logger
+--> page
+--> base
+-->base_view.dart
+--> favorite
+--> page.dart
+--> vm.dart
+--> home
+--> page.dart
+--> vm.dart
+--> login
+--> page.dart
+--> vm.dart
+--> locator.dart
+--> main.dart
+--> route.dart
